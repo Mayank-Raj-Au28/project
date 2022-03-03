@@ -1,0 +1,5 @@
+ARP (Address resolution protocol) which translates the IP address to its associated physical address. The purpose of Address resolution protocol to find out the MAC Address of a device in LAN.
+
+DHCP (Dynamic Host configuration protocol) which is a network protocol automatically assigns the IP addresses to the computers or other devices on each LAN network.
+
+DNS (Domain name system / Domain name server) which maps the IP addresses into a human-readable name and vice-versa.
